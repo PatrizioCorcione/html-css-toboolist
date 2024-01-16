@@ -3,13 +3,17 @@
   margin: 0;
   padding: 0;
 }
-header div img {
+header{
+  height: 56px;
+}
+header  img {
   width: 55px;
   vertical-align: middle;
 }
-header div h1{
-  font-size: 2rem;
-  display: inline-block;
+header  h1{
+  height: 56px;
+  display: inline;
+  vertical-align: middle;
 }
 
 main {
@@ -33,3 +37,7 @@ main section {
 .semi-bottoni{
   display: inline-block;
 }
+ul{
+  list-style-type: none;
+}
+
