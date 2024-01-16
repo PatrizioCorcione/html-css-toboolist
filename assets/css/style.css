@@ -12,8 +12,24 @@ header div h1{
   display: inline-block;
 }
 
+main {
+  background-color: gray;
+  padding-top: 40px;
+}
 main section {
-  background-color: #6c6c6c;
+  background-color: white;
   margin: auto 150px;
   margin-top: 1px;
+}
+
+.est-top  {
+  border-radius: 5px 5px 0px 0px; ;
+}
+
+.est-bottom {
+  border-radius: 0px 0px 5px 5px; ;
+}
+
+.semi-bottoni{
+  display: inline-block;
 }
