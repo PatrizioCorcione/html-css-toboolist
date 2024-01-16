@@ -39,7 +39,7 @@ main section {
 }
 
 .semi-tasti{
-  border-radius: 10%;
+  border-radius: 4px;
   margin: 5px;
   padding: 5px;
   float: left;
@@ -47,17 +47,50 @@ main section {
 }
 
 #bordi{
-  border: 1px solid gray;
-  color: gray;
+  border: 1px solid #d3d8dc;
+  color: #d3d8dc;
 
 }
 
-#blu{
+#top-celeste{
   background-color: #47adf1;
   color: white;
 }
 
 ul{
   list-style-type: none;
+}
+
+.posizione-lista{
+  padding-left: 40px;
+
+}
+.bottoni-lista{
+  color: white;
+  border-radius: 4px;
+}
+
+#bot-celeste {
+background-color: #47adf1 ;
+}
+
+#bot-viola {
+background-color: #9b71e4 ;
+}
+
+#bot-verde {
+background-color: #64c0a9 ;
+}
+
+#bot-arancione {
+background-color: #f29e33 ;
+}
+
+#bot-rosa {
+background-color: #d863a1 ;
+}
+
+#bot-giallo {
+background-color: #b0c926 ;
 }
 
