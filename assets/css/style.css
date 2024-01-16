@@ -4,6 +4,7 @@
   padding: 0;
 }
 header{
+  margin: 12px;
   height: 56px;
 }
 header  img {
@@ -27,16 +28,35 @@ main section {
 }
 
 .est-top  {
+  height: 55px;
   border-radius: 5px 5px 0px 0px; ;
+  padding: 10px 45px;
 }
 
 .est-bottom {
   border-radius: 0px 0px 5px 5px; ;
+  padding: 45px;
 }
 
-.semi-bottoni{
-  display: inline-block;
+.semi-tasti{
+  border-radius: 10%;
+  margin: 5px;
+  padding: 5px;
+  float: left;
+  display: block;
 }
+
+#bordi{
+  border: 1px solid gray;
+  color: gray;
+
+}
+
+#blu{
+  background-color: #47adf1;
+  color: white;
+}
+
 ul{
   list-style-type: none;
 }
