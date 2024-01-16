@@ -3,3 +3,17 @@
   margin: 0;
   padding: 0;
 }
+header div img {
+  width: 55px;
+  vertical-align: middle;
+}
+header div h1{
+  font-size: 2rem;
+  display: inline-block;
+}
+
+main section {
+  background-color: #6c6c6c;
+  margin: auto 150px;
+  margin-top: 1px;
+}
