@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: s;
 }
 header{
   margin: 12px;
@@ -18,7 +19,7 @@ header  h1{
 }
 
 main {
-  background-color: gray;
+  background-color: #f6f8f9;
   padding-top: 40px;
   padding-bottom: 10px;
 }
@@ -62,7 +63,7 @@ ul{
   list-style-type: none;
 }
 li{
-  margin: 20px;
+  margin: 10px 0px 30px 40px;;
 }
 
 .posizione-lista{
